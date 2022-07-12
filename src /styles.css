@@ -10,50 +10,62 @@ h1 {
 
 .red {
 	background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+	box-shadow: 0 0 20px 0 rgba(83, 14, 14, .8);
 }
 
 .green {
 	background: linear-gradient(#55680d, #71f53e, #116c31);
+	box-shadow: 0 0 20px 0 #3B7e20cc;
 }
 
 .blue {
 	background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+	box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, .8);
 }
 
 .yellow {
 	background: linear-gradient(rgb(122, 122, 0), rgb(230, 230, 1), rgb(189, 192, 2));
+	box-shadow: 0 0 20px 0 rgb(127, 127, 1, .8);
 }
 
 .cyan {
 	background: linear-gradient(rgb(1, 131, 131), rgb(14, 233, 233), rgb(3, 122, 122));
+	box-shadow: 0 0 20px 0 rgb(1, 98, 98, .8);
 }
 
 .magenta {
 	background: linear-gradient(rgb(138, 14, 138), rgb(228, 8, 228), rgb(125, 8, 125));
+	box-shadow: 0 0 20px 0 rgba(135, 11, 135, 0.8);
 }
 
 .orange {
 	background: linear-gradient(rgb(175, 92, 9), rgb(255, 127, 0), rgb(153, 78, 2));
+	box-shadow: 0 0 20px 0 rgba(139, 73, 7, 0.8);
 }
 
 .spring-green {
 	background: linear-gradient(rgb(3, 141, 72), rgb(0, 255, 127), rgb(15, 89, 52));
+	box-shadow: 0 0 20px 0 rgba(2, 104, 53, 0.8);
 }
 
 .violet {
 	background: linear-gradient(rgb(79, 7, 150), rgb(127, 0, 255), rgb(56, 4, 109));
+	box-shadow: 0 0 20px 0 rgba(66, 7, 126, 0.8);
 }
 
 .chartreuse-green {
 	background: linear-gradient(rgb(87, 149, 25), rgb(127, 255, 0), rgb(68, 116, 20));
+	box-shadow: 0 0 20px 0 rgba(70, 121, 20, 0.8);
 }
 
 .azure {
 	background: linear-gradient(rgb(19, 64, 108), rgb(0, 127, 255), rgb(3, 42, 82));
+	box-shadow: 0 0 20px 0 rgba(19, 67, 114, 0.8);
 }
 
 .rose {
 	background: linear-gradient(rgb(163, 29, 96), rgb(255, 0, 127), rgb(129, 8, 69));
+	box-shadow: 0 0 20px 0 rgba(123, 18, 71, 0.8);
 }
 
 .container {
