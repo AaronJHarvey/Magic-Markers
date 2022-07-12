@@ -9,51 +9,51 @@ h1 {
 }
 
 .red {
-	background-color: rgb(255, 0, 0);
+	background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 }
 
 .green {
-	background-color: #007f00;
+	background: linear-gradient(#55680d, #71f53e, #116c31);
 }
 
 .blue {
-	background-color: HSL(240, 100%, 50%);
+	background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
 }
 
 .yellow {
-	background-color: rgb(255, 255, 0);
+	background: linear-gradient(rgb(122, 122, 0), rgb(230, 230, 1), rgb(189, 192, 2));
 }
 
 .cyan {
-	background-color: rgb(0, 255, 255);
+	background: linear-gradient(rgb(1, 131, 131), rgb(14, 233, 233), rgb(3, 122, 122));
 }
 
 .magenta {
-	background-color: rgb(255, 0, 255);
+	background: linear-gradient(rgb(138, 14, 138), rgb(228, 8, 228), rgb(125, 8, 125));
 }
 
 .orange {
-	background-color: rgb(255, 127, 0);
+	background: linear-gradient(rgb(175, 92, 9), rgb(255, 127, 0), rgb(153, 78, 2));
 }
 
 .spring-green {
-	background-color: rgb(0, 255, 127);
+	background: linear-gradient(rgb(3, 141, 72), rgb(0, 255, 127), rgb(15, 89, 52));
 }
 
 .violet {
-	background-color: rgb(127, 0, 255);
+	background: linear-gradient(rgb(79, 7, 150), rgb(127, 0, 255), rgb(56, 4, 109));
 }
 
 .chartreuse-green {
-	background-color: rgb(127, 255, 0);
+	background: linear-gradient(rgb(87, 149, 25), rgb(127, 255, 0), rgb(68, 116, 20));
 }
 
 .azure {
-	background-color: rgb(0, 127, 255);
+	background: linear-gradient(rgb(19, 64, 108), rgb(0, 127, 255), rgb(3, 42, 82));
 }
 
 .rose {
-	background-color: rgb(255, 0, 127);
+	background: linear-gradient(rgb(163, 29, 96), rgb(255, 0, 127), rgb(129, 8, 69));
 }
 
 .container {
